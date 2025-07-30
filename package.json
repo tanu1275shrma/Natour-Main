@@ -52,6 +52,7 @@
     "eslint-plugin-react": "^7.37.5",
     "mocha": "^11.7.1",
     "nodemon": "^3.1.10",
+    "parcel": "^2.15.4",
     "prettier": "^3.6.2",
     "supertest": "^7.1.3"
   }
